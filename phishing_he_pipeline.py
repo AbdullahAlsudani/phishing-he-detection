@@ -5,7 +5,7 @@ Using Machine Learning and Homomorphic Encryption (CKKS via TenSEAL)
 ================================================================================
 
 Bachelor's Thesis — BSc Data Science, Artificial Intelligence & Digital Business
-Gisma University of Applied Sciences, 2025
+Gisma University of Applied Sciences, 2026
 Supervisor: Dr. Mehran Monavari
 
 --------------------------------------------------------------------------------
